@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Peter Elia</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Peter+Elia;Mobile+%26+Flutter+Developer;Cloud+Computing+Enthusiast" alt="Typing Animation" />
+</h1>
 
 <p align="center">
 🎓 Computer Science Graduate <br>
@@ -9,7 +11,7 @@
 ---
 
 ### 🌐 Connect with me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/peter-elia-648485240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
@@ -21,40 +23,43 @@
 ---
 
 ### 🧰 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,git,github,figma,linux" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterelia22&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=peterelia22&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=peterelia22&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterelia22&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-### 🧩 Most Used Languages
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterelia22&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=peterelia22&theme=tokyonight&margin-w=10&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=peterelia22&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ### 🧠 About Me
 - 🔭 Working on my **Dyslexia Mate App**
-- 🌱 Always learning and improving my Flutter architecture
-- ⚡ Fun fact: I love turning ideas into real, functional mobile apps 🚀
+- 🌱 Always improving my Flutter architecture and UI/UX skills
+- ⚡ Love solving real-world problems with elegant mobile solutions
 - 💼 *Open to Android / Flutter Developer opportunities*
+- 🎮 Fun fact: I enjoy gamifying learning experiences through my projects!
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=peterelia.peterelia" alt="visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=peterelia22.peterelia22" alt="visitors"/>
 </p>
