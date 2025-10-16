@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Peter+Elia;Mobile+%26+Flutter+Developer;Cloud+Computing+Enthusiast" alt="Typing Animation" />
-</h1>
+<!-- 👋 README by Peter Elia -->
+
+<p align="center">
+  <a href="https://github.com/peterelia22">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Peter+Elia;Mobile+%26+Flutter+Developer;Cloud+Computing+Enthusiast" alt="Typing Animation" />
+  </a>
+</p>
 
 <p align="center">
 🎓 Computer Science Graduate <br>
@@ -57,6 +61,13 @@
 - ⚡ Love solving real-world problems with elegant mobile solutions
 - 💼 *Open to Android / Flutter Developer opportunities*
 - 🎮 Fun fact: I enjoy gamifying learning experiences through my projects!
+
+---
+
+### 💬 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
 
 ---
 
