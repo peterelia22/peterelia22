@@ -34,8 +34,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterelia&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peterelia&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=peterelia22&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peterelia22&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=peterelia.peterelia" alt="visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=peterelia22.peterelia22" alt="visitors"/>
 </p>
