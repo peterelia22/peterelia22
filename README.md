@@ -33,6 +33,18 @@
 
 ---
 
+### 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/peterelia22/Dyslexia-Mate" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peterelia22&repo=Dyslexia-Mate&theme=tokyonight" alt="Dyslexia Mate Repo" />
+  </a>
+  <a href="https://github.com/peterelia22/Fruits-Hub" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peterelia22&repo=Fruits-Hub&theme=tokyonight" alt="Fruits Hub Repo" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=peterelia22&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
@@ -64,9 +76,11 @@
 
 ---
 
-### 💬 Quote of the Day
+### 📄 My Resume
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <a href="https://drive.google.com/file/d/1c9w8pWPYJ6oGbFZ7JsnpCn89T0F9O-ia/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-%23007ACC.svg?style=for-the-badge&logo=GoogleDrive&logoColor=white" />
+  </a>
 </p>
 
 ---
