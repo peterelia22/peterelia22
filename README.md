@@ -35,8 +35,8 @@
 
 ### 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/peterelia22/Dyslexia-Mate" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peterelia22&repo=Dyslexia-Mate&theme=tokyonight" alt="Dyslexia Mate Repo" />
+  <a href="https://github.com/peterelia22/Dyslexia_Mate" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peterelia22&repo=Dyslexia_Mate&theme=tokyonight" alt="Dyslexia Mate Repo" />
   </a>
   <a href="https://github.com/peterelia22/Fruits-Hub" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=peterelia22&repo=Fruits-Hub&theme=tokyonight" alt="Fruits Hub Repo" />
