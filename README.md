@@ -34,15 +34,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterelia&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=peterelia&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=peterelia22&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=peterelia22&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
 
 ### 🧩 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterelia&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterelia22&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
